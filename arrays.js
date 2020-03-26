@@ -22,4 +22,3 @@ return Array.slice(1)
 function removeElementFromBeginningOfArray(Array){
 return Array.slice(1)
 }
-}
